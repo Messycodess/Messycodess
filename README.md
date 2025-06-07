@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mansi Mehta</h1>
 <h3 align="center">A passionate python/AI ML developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=messycodess" alt="messycodess" /></a> </p>
-
 - 🔭 I’m currently working on **Voice enabled CookBOT**
 
 - 🌱 I’m currently learning **Langchain ,RAG and DSA**
