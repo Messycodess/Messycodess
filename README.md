@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Langchain ,RAG and DSA**
 
-- 👯 I’m collaborating with friends on **Task manager with chatbot**
+- 👯 I have started collaborationg with friends recently here.
 
 - 🤝 I’m looking for help with **Agentic AI**
 
