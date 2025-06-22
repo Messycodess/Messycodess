@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences on Linkedin [https://www.linkedin.com/in/mansi-mehta-1803ss/](https://www.linkedin.com/in/mansi-mehta-1803ss/)
 
-- ⚡ Fun fact *I write code, chase ideas, and occasionally romanticize working remotely in Goa or mountains with a good playlist and flaky Wi-Fi. **
+- ⚡ Fun fact **I write code, chase ideas, and occasionally romanticize working remotely in Goa or mountains with a good playlist and flaky Wi-Fi one day. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
