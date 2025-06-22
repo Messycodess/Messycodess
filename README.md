@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Voice enabled CookBOT**
 
-- 🌱 I’m currently learning **Langchain ,RAG and DSA**
+- 🌱 I’m currently learning **Langchain ,RAG and AI Agents**
 
 - 👯 I have started collaborationg with friends recently here.
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences on Linkedin [https://www.linkedin.com/in/mansi-mehta-1803ss/](https://www.linkedin.com/in/mansi-mehta-1803ss/)
 
-- ⚡ Fun fact **Probably i will be in a remote job in Goa in next 2 years...**
+- ⚡ Fun fact *I write code, chase ideas, and occasionally romanticize working remotely in Goa or mountains with a good playlist and flaky Wi-Fi. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
